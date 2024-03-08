@@ -15,7 +15,7 @@ This is a design for WLED Control Hardware.
 
 ## Updated Features
 
-- [ ] 
+- [ ] Coming Soon
 
 ## Images
 
@@ -30,16 +30,9 @@ This project is licensed under the Creative Commons Attribution Share Alike 4.0 
 
 
 ## Support
-> Although we do this for 💕 of 🕹️<br/>
-> **We Also Like Coffee!** <br/>
 > *Please Consider Supporting* <br/>
 
-
-
-Did you know, you can support us in a few way? We offer multiple sposorship tiers, with different rewards!
-
-Take a *look*. 
-See what *fits*.
+[Paypal](https://www.paypal.me/veteze/10USD)
 
 **Thank You**
 
