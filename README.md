@@ -1,4 +1,4 @@
-### ![WLED Control Hardware](https://raw.githubusercontent.com/ima-jin/imajin-OSH-boilerplate/master/Assets/github.bmp)
+### ![WLED Control Hardware](https://github.com/ima-jin/imajin-OSH-boilerplate/raw/main/assets/github.bmp)
 > WLED Control Hardware
 
 This is a design for WLED Control Hardware.
