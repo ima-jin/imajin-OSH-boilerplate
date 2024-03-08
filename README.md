@@ -21,7 +21,7 @@ This is a design for WLED Control Hardware.
 
 ## Authors
 
-* **Ryan Vettese** - *Organizer or things* - [veteze](https://github.com/veteze)
+* **Ryan Vettese** - *Organizer of stuff* - [veteze](https://github.com/veteze)
 * **Eugene Yevhen Andruszczenko** - *32teeth OSH template* - [32teeth](https://github.com/32teeth)
 
 ### License
